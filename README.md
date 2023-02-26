@@ -1,25 +1,3 @@
-#################################################################################################
-##                                                                                             ##
-##                                  GRENOBLE INP - PHELMA                                      ##
-##                                                                                             ##
-##              Supervisors  :                                                                 ##
-##                  Laurent      FESQUET      -  laurent.fesquet@grenoble-inp.fr               ##
-##                  Michele      PORTOLAN     -  michele.portolan@grenoble-inp.fr              ##
-##                                                                                             ##
-##              Contributors :                                                                 ##
-##                  Axel         BALDACCHINO  -  axel.baldacchino@grenoble-inp.org             ##
-##                  Bruno        BAPTISTE     -  bruno.baptiste@grenoble-inp.org               ##
-##                  Tom          DESESQUELLE  -  tom.desesquelle@grenoble-inp.org              ##
-##                  Mamadou Hawa DIALLO       -  mamadou-hawa.diallo@grenoble-inp.org          ##    
-##                  Paul-Arthur  MEHL         -  paul-arthur.mehl@grenoble-inp.org             ##
-##                  Megi         MYFTARAJ     -  megi.myftaraj@grenoble-inp.org                ##
-##                  Elisabeth    PORRET       -  elisabeth.porret@grenoble-inp.org             ## 
-##                  Matisse      REBOUD       -  matisse.reboud@grenoble-inp.org               ##
-##                  Alexandre    SCOUARNEC    -  alexandre.scouarnec@grenoble-inp.org          ##    
-##                  Anthony      TEISSIER     -  anthony.teissier@grenoble-inp.org             ##  
-##                                                                                             ## 
-#################################################################################################
-
 ZIGBEE PROJECT - (Engineer School Project)
 
 Analog and Digital design of a telecomunication circuit based on the ZigBee protocol.
@@ -75,3 +53,35 @@ CONFIG folder contains
 LIBS flder contains
   - Compilation Librairies Location Folder
 
+
+
+
+
+
+
+
+
+
+
+
+#################################################################################################
+##                                                                                             ##
+##                                  GRENOBLE INP - PHELMA                                      ##
+##                                                                                             ##
+##              Supervisors  :                                                                 ##
+##                  Laurent      FESQUET      -  laurent.fesquet@grenoble-inp.fr               ##
+##                  Michele      PORTOLAN     -  michele.portolan@grenoble-inp.fr              ##
+##                                                                                             ##
+##              Contributors :                                                                 ##
+##                  Axel         BALDACCHINO  -  axel.baldacchino@grenoble-inp.org             ##
+##                  Bruno        BAPTISTE     -  bruno.baptiste@grenoble-inp.org               ##
+##                  Tom          DESESQUELLE  -  tom.desesquelle@grenoble-inp.org              ##
+##                  Mamadou Hawa DIALLO       -  mamadou-hawa.diallo@grenoble-inp.org          ##    
+##                  Paul-Arthur  MEHL         -  paul-arthur.mehl@grenoble-inp.org             ##
+##                  Megi         MYFTARAJ     -  megi.myftaraj@grenoble-inp.org                ##
+##                  Elisabeth    PORRET       -  elisabeth.porret@grenoble-inp.org             ## 
+##                  Matisse      REBOUD       -  matisse.reboud@grenoble-inp.org               ##
+##                  Alexandre    SCOUARNEC    -  alexandre.scouarnec@grenoble-inp.org          ##    
+##                  Anthony      TEISSIER     -  anthony.teissier@grenoble-inp.org             ##  
+##                                                                                             ## 
+#################################################################################################
