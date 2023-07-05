@@ -174,6 +174,7 @@ initial begin : WRITE
 	#CLK_PERIOD writeEN = 1'b0;
 
 
+
 end
 
 
@@ -192,6 +193,8 @@ initial begin : READ
 	readEN = 1'b1 ;          
 	#CLK_PERIOD readEN = 1'b0 ;
 
+	#(1us);
+	$finish;
 end
 
 
