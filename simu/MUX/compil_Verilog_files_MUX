@@ -1,6 +1,6 @@
-vdel -lib $HOME/Documents/PROJET_ZIGBEE_2A_MT_2022/zigbee_project_2/libs/LibMUX -all
+vdel -lib ../../libs/LibMUX
 vlib ../../libs/LibMUX
-vmap Lib_MUX $HOME/Documents/PROJET_ZIGBEE_2A_MT_2022/zigbee_project_2/libs/LibMUX
+vmap Lib_MUX ../../libs/LibMUX
 
 vlog +acc -work Lib_MUX ../../rtl/MUX/MUX_211.sv
 vlog +acc -work Lib_MUX ../../rtl/MUX/MUX_411.sv
